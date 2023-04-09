@@ -8,7 +8,9 @@ However, ML-based audio classification of bird species can be challenging for se
 
 To address the general challenge of training ML models to separate audio recordings without access to examples of isolated sounds, Google researchers have developped a unsupervised method called misture invariant training (MixIT). to separate birdsong and improve species classification. Below is a demonstration of birdsong separation from High Sierras (the video show the mel-spectogram of the mixed audio and highlight the audio separated into different tracks) :
 
-![](save/birbsep_aiblog_caples.mp4)
+<video width="320" height="240" controls>
+  <source src="save/birbsep_aiblog_caples.mp4" type="video/mp4">
+</video>
 
 ## References
 
