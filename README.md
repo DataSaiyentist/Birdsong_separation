@@ -4,13 +4,9 @@ Birds are all around us, and just by listening, we can learn many things about o
 
 The massive amount of available field recordings of birds prensents an opportunity to use machine learning (ML) to automatically track bird populations and better understand ecosystems.
 
-However, ML-based audio classification of bird species can be challenging for several reasons. Indeed, field recordings typically contain significant environmental noise and overlapping vocalizations that interfere with classification. Additionally, some of the most common species often appear unlabeled in the background of training recordings for less common species, leading models to discount the common species.
+Google researchers have developped an unsupervised method called mixture invariant training (MixIT) to separate birdsongs and improve species classification. Below is a demonstration of birdsong separation from High Sierras (the video show the mel-spectogram of the mixed audio and highlight the audio separated into different tracks) :
 
-To address the general challenge of training ML models to separate audio recordings without access to examples of isolated sounds, Google researchers have developped a unsupervised method called misture invariant training (MixIT). to separate birdsong and improve species classification. Below is a demonstration of birdsong separation from High Sierras (the video show the mel-spectogram of the mixed audio and highlight the audio separated into different tracks) :
-
-<video width="320" height="240" controls>
-  <source src="save/birbsep_aiblog_caples.mp4" type="video/mp4">
-</video>
+save/birbsep_aiblog_caples.mp4
 
 ## References
 
