@@ -6,7 +6,7 @@ The massive amount of available field recordings of birds prensents an opportuni
 
 Google researchers have developped an unsupervised method called mixture invariant training (MixIT) to separate birdsongs and improve species classification. Below is a demonstration of birdsong separation from High Sierras (the video show the mel-spectogram of the mixed audio and highlight the audio separated into different tracks) :
 
-save/birbsep_aiblog_caples.mp4
+https://user-images.githubusercontent.com/77958276/230787013-273078ae-7749-4daf-a3e4-b87fc701a80a.mp4
 
 ## References
 
