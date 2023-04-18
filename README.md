@@ -2,7 +2,7 @@
 
 Birds are all around us, and just by listening, we can learn many things about our environment. Ecologists use birds to understand food systems and forest health. For example, if there are more woodpeckers in a forest, that means there’s a lot of dead wood. 
 
-The massive amount of available field recordings of birds prensents an opportunity to use machine learning (ML) to automatically track bird populations and better understand ecosystems.
+The massive amount of available field recordings of birds presents an opportunity to use machine learning (ML) to automatically track bird populations and better understand ecosystems.
 
 Google researchers have developped an unsupervised method called mixture invariant training (MixIT) to separate birdsongs and improve species classification. Below is a demonstration of birdsong separation from High Sierras (the video show the mel-spectogram of the mixed audio and highlight the audio separated into different tracks) :
 
